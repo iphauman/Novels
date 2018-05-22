@@ -1,6 +1,6 @@
 # 小說名稱，未定
 
-## 小說設定集
+## 設定
 
 ### 妖精之夜祭：成人祭（Human's initiation）
 
@@ -32,3 +32,10 @@
 
 ### 元素
 
+
+
+## 參考 References
+
+[Wiki：世界之樹](https://zh.wikipedia.org/wiki/世界之树)
+
+[巴哈姆特：妖精、精靈的種類、由來](https://forum.gamer.com.tw/C.php?bsn=203&snA=44)
